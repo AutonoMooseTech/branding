@@ -1,5 +1,9 @@
 # Branding Resources
 
+## Logo
+
+![AutonoMoose Logo](https://raw.githubusercontent.com/AutonoMooseTech/branding-resources/master/logo.png)
+
 ## Color Pallet
 
 ![#111111](https://placehold.it/32/111111/000000?text=+) `#111111`
